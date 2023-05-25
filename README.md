@@ -117,6 +117,9 @@ Got it! Based on your feedback, here are some more suggestions:
 How do you feel about these suggestions?
 
 Me:
+Pretty good. Could you suggest less popular music?
+
+GPT:
 Sure, here are some less popular Industrial Metal bands and songs that you might enjoy:
 
 1. Hanzel und Gretyl - "Third Reich From the Sun"
